@@ -243,15 +243,9 @@ p {
   h1 {
     font-size: 40px;
   }
-  span {
-    font-size: 13px;
-  }
 }
 
 @media (max-width: 768px) {
-  span {
-    font-size: 16px;
-  }
   .testimonial p {
     padding-top: 25px;
   }
